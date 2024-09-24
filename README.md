@@ -133,7 +133,7 @@ margin: auto;
 
         <main>
             <section id="home" class="section">
-                <img src="C:\Users\DELL\Desktop\Intern\Franki.jpg" style="width: 340px; height: 400px;"/>
+                <img src="https://github.com/Lovincerf/Francisca-Lovinser-Portfolio/blob/main/Franki.jpg" style="width: 340px; height: 400px;"/>
                 <div class="container">
                 <div class="text-block">
                     <h5><p>Let's Work Together!</p>IT Officer | IT Support Specialist </p></h5>
