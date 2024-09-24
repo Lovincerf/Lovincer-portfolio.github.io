@@ -180,7 +180,7 @@ margin: auto;
             <section id="projects" class="section">
                     <h6> Project Showcase</h6>
                     <p>"Optimizing Home Network Performance"</p>
-                    <centred><img src="C:\Users\DELL\Desktop\Intern\router.jpg" style="width:400px; height:320px; display:block; margin-left: auto; margin-right: auto;"/></centred>
+                    <centred><img src="https://github.com/Lovincerf/Francisca-Lovinser-Portfolio/blob/main/router.jpg" style="width:400px; height:320px; display:block; margin-left: auto; margin-right: auto;"/></centred>
                     <p>Brief description: Designed and implemented a home network setup using a router, switch and wireless access points.</br>
                         Technologies used: TP Link Router, Netgear Switch, Linksys Access Points.</br>
                         Challenges overcome: Improved signal strength and reducd latency issues</br>
