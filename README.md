@@ -187,7 +187,7 @@ margin: auto;
                         Outcomes: Increased internet speed by 50%, enhance4d coverage across all three floors
                     </p>
                     <p>"Virtual Reception Enhancement Initiative"</p>
-                    <centred><img src="https://github.com/Lovincerf/Francisca-Lovinser-Portfolio/commit/a7d19716ae278ddac7b166c516dcf21964064b45" style="width:400px; height: 320px; display:block; margin-left: auto; margin-right: auto;"/></centred>
+                    <centred><img src="https://github.com/Lovincerf/Francisca-Lovinser-Portfolio/blob/main/lapi.jpg" style="width:400px; height: 320px; display:block; margin-left: auto; margin-right: auto;"/></centred>
                     <p>Brief description: During  my month long contract as a remote call agent, I identified opportunities to streamline our virtual reception process and enhance the overall customer experience. I proposed  and implemntd several improvements, resulting in significant increase in first-call resolution rates and client satisfaction scores.</br>
                     Tools and technologies used: CRM software (Salesforce), Microsoft excel for data analysis, Google Sheets for collaborative document sharing.</br>
                     Impact: Improved overall customer satisfaction and increased team productivity.
