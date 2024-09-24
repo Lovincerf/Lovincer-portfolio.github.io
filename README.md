@@ -211,7 +211,7 @@ margin: auto;
                 </ul>
             
                 
-                <img src="C:\Users\DELL\Desktop\Intern\me.jpg" style="width: 180px; height: 280px;"/>
+                <img src="https://github.com/Lovincerf/Francisca-Lovinser-Portfolio/blob/main/me.jpg" style="width: 180px; height: 280px;"/>
             </div> 
             </section>
 
