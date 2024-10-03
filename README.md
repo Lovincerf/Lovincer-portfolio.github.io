@@ -189,15 +189,15 @@ margin: auto;
                     </p>
                     <p>"Virtual Reception Enhancement Initiative"</p>
                     <centred><img src="https://private-user-images.githubusercontent.com/103730660/373248902-bb66af9e-48dc-4959-92ee-1245f48db277.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc5NTk3OTgsIm5iZiI6MTcyNzk1OTQ5OCwicGF0aCI6Ii8xMDM3MzA2NjAvMzczMjQ4OTAyLWJiNjZhZjllLTQ4ZGMtNDk1OS05MmVlLTEyNDVmNDhkYjI3Ny5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAwM1QxMjQ0NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04MDIxNTNkNGFmYzM0ZmQyMzBjNWQzNDNiOTk5MTkyN2ZiNGFmMzg1ZmIwZGIxOTNhZjcyZGI3ZTAwZGFmOGQ3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.g-tEchsaTQYoUZKJHCVehnFCOa8eLt8GZGUHtsmSHRo" style="width:400px; height: 320px; display:block; margin-left: auto; margin-right: auto;"/></centred>
-                    <p>Brief description: During  my month long contract as a remote call agent, I identified opportunities to streamline our virtual reception process and enhance the overall customer experience.<br> I proposed  and implemntd several improvements, resulting in significant increase in first-call resolution rates and client satisfaction scores.</br>
-                  <br>  Tools and technologies used: CRM software (Salesforce), Microsoft excel for data analysis, Google Sheets for collaborative document sharing.</br>
-                    Impact: Improved overall customer satisfaction and increased team productivity.
+                    <p>Brief description: During  my month long contract as a remote call agent, I identified opportunities to streamline our virtual reception process and enhance the overall customer experience.<br> I proposed  and implemntd several improvements, resulting in significant increase in first-call resolution rates and client satisfaction scores.
+                  <br>  Tools and technologies used: CRM software (Salesforce), Microsoft excel for data analysis, Google Sheets for collaborative document sharing.
+                   <br> Impact: Improved overall customer satisfaction and increased team productivity.
                 
                     </p>
                     
                     
                     <tittle>Personal Statement</tittle>
-                    <p> My passion for networking drives me to continuosly expand my knowledge and skills in this rapidly evolving world.<br> I'm committed  to staying at the forefront of technological advancements and applying innovative solutions to the real-world problems.</br> <br>I am eager to apply my skils and experiences to roles that focus on enhancing customer experience through innovative solutions and efficient processes. I'm excited to bring my enthusiasm and growing expertise to a role in network engineering and support.</br></p>
+                    <p> My passion for networking drives me to continuosly expand my knowledge and skills in this rapidly evolving world.<br> I'm committed  to staying at the forefront of technological advancements and applying innovative solutions to the real-world problems. <br>I am eager to apply my skils and experiences to roles that focus on enhancing customer experience through innovative solutions and efficient processes. I'm excited to bring my enthusiasm and growing expertise to a role in network engineering and support.</p>
             </section>
 
             <section id="expertise" class="section">
