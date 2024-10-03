@@ -148,7 +148,7 @@ margin: auto;
             <section id="about" class="section">
                 <h2> About me</h2>
                
-                <p>I'm an ambitious IT graduate with a strong foundation in information technology, eager to launch my career in networking and support.</br>This portfolio showcases my academic achievements,practical experience, growing expertise in IT and committment to continuos learning in the field of networking and support.</br> </p>
+                <p>I'm an ambitious IT graduate with a strong foundation in information technology, eager to launch my career in networking and support.<br>This portfolio showcases my academic achievements,practical experience, growing expertise in IT and committment to continuos learning in the field of networking and support. </p>
             </section>
 
             <section id="skills" class="section">
@@ -183,9 +183,9 @@ margin: auto;
                     <p>"Optimizing Home Network Performance"</p>
                     <centred><img src="https://private-user-images.githubusercontent.com/103730660/373246782-9836cc99-c72b-4114-a6d9-3d1f5207644f.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc5NTk1NjYsIm5iZiI6MTcyNzk1OTI2NiwicGF0aCI6Ii8xMDM3MzA2NjAvMzczMjQ2NzgyLTk4MzZjYzk5LWM3MmItNDExNC1hNmQ5LTNkMWY1MjA3NjQ0Zi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAwM1QxMjQxMDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zYWQ4NTJjMzc3ZmM1ZjQwMzliYmU2ZGRjYTYxN2M0ZTAyNDU3ZTA1YTRiOTc0NjBiZWNhYmM3N2M5YmMyY2JkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Vy2vp7dzny8BBlxar-oqubgSYzZZoksShDUBeZvSbKw" style="width:400px; height:320px; display:block; margin-left: auto; margin-right: auto;"/></centred>
                     <p>Brief description: Designed and implemented a home network setup using a router, switch and wireless access points.</br>
-                        Technologies used: TP Link Router, Netgear Switch, Linksys Access Points.</br>
-                        Challenges overcome: Improved signal strength and reducd latency issues</br>
-                        Outcomes: Increased internet speed by 50%, enhance4d coverage across all three floors
+                       <br> Technologies used: TP Link Router, Netgear Switch, Linksys Access Points.
+                       <br> Challenges overcome: Improved signal strength and reducd latency issues
+                      <br>  Outcomes: Increased internet speed by 50%, enhance4d coverage across all three floors
                     </p>
                     <p>"Virtual Reception Enhancement Initiative"</p>
                     <centred><img src="https://private-user-images.githubusercontent.com/103730660/373248902-bb66af9e-48dc-4959-92ee-1245f48db277.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc5NTk3OTgsIm5iZiI6MTcyNzk1OTQ5OCwicGF0aCI6Ii8xMDM3MzA2NjAvMzczMjQ4OTAyLWJiNjZhZjllLTQ4ZGMtNDk1OS05MmVlLTEyNDVmNDhkYjI3Ny5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAwM1QxMjQ0NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04MDIxNTNkNGFmYzM0ZmQyMzBjNWQzNDNiOTk5MTkyN2ZiNGFmMzg1ZmIwZGIxOTNhZjcyZGI3ZTAwZGFmOGQ3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.g-tEchsaTQYoUZKJHCVehnFCOa8eLt8GZGUHtsmSHRo" style="width:400px; height: 320px; display:block; margin-left: auto; margin-right: auto;"/></centred>
