@@ -212,7 +212,7 @@ margin: auto;
                 </ul>
             
                 
-                <img src="https://private-user-images.githubusercontent.com/103730660/373251335-24f62372-f04e-4f27-9881-96b73ef5253c.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc5NTg5MzEsIm5iZiI6MTcyNzk1ODYzMSwicGF0aCI6Ii8xMDM3MzA2NjAvMzczMjUxMzM1LTI0ZjYyMzcyLWYwNGUtNGYyNy05ODgxLTk2YjczZWY1MjUzYy5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAwM1QxMjMwMzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xZjQ0MGYzMDg0ODljMGQyMzk5MDMyYzQ4Zjk5NTkzNDUzZTg5NjA1NTUxYTBiMjRkYTJhN2JjZWJjYTU0M2UzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Tf1wCo-EhECw9wEqqe17coN4UiICfY8nctr6mr5Vrow" style="width: 180px; height: 280px;"/>
+            
             </div> 
             </section>
 
