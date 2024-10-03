@@ -180,7 +180,7 @@ margin: auto;
             <section id="projects" class="section">
                     <h6> Project Showcase</h6>
                     <p>"Optimizing Home Network Performance"</p>
-                    <centred><img src="https://github.com/Lovincerf/Francisca-Lovinser-Portfolio/blob/main/router.jpg" style="width:400px; height:320px; display:block; margin-left: auto; margin-right: auto;"/></centred>
+                    <centred><img src="https://private-user-images.githubusercontent.com/103730660/373246782-9836cc99-c72b-4114-a6d9-3d1f5207644f.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc5NTgwODIsIm5iZiI6MTcyNzk1Nzc4MiwicGF0aCI6Ii8xMDM3MzA2NjAvMzczMjQ2NzgyLTk4MzZjYzk5LWM3MmItNDExNC1hNmQ5LTNkMWY1MjA3NjQ0Zi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAwM1QxMjE2MjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00OThmNWRhZjRlNDA5NTc4NzZjNzkxMmZmNTc0NDM4N2M4NzM2MWUxYjFhNTc5ZWEwZmM4NmIyYjgwMjAyNzJkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.BaYOdkkPIuKO7eXN17xO1Q2hD-o4mH83XaVUtdfBepA" style="width:400px; height:320px; display:block; margin-left: auto; margin-right: auto;"/></centred>
                     <p>Brief description: Designed and implemented a home network setup using a router, switch and wireless access points.</br>
                         Technologies used: TP Link Router, Netgear Switch, Linksys Access Points.</br>
                         Challenges overcome: Improved signal strength and reducd latency issues</br>
