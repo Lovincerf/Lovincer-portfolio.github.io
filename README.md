@@ -133,11 +133,11 @@ margin: auto;
 
         <main>
             <section id="home" class="section">
-                <img src="https://private-user-images.githubusercontent.com/103730660/373249825-fb1222b5-6a37-4ad9-a899-1b4e253e5ea2.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc5NTg2MjIsIm5iZiI6MTcyNzk1ODMyMiwicGF0aCI6Ii8xMDM3MzA2NjAvMzczMjQ5ODI1LWZiMTIyMmI1LTZhMzctNGFkOS1hODk5LTFiNGUyNTNlNWVhMi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAwM1QxMjI1MjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iMDFlNzE5OTZmY2U3OGE3NjRkNDg1YjM5Y2Y1MWUxNTI2YzYwYjMwYTlkMTBjOTZlOGM5MjVmZTAzYzFmNTEwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.W02jCwEnLCVdsmgZfVpJ8aCGYH_f2KwCI-OQzm9HTLc" style="width: 340px; height: 400px;"/>
+                <img src="https://private-user-images.githubusercontent.com/103730660/373249825-fb1222b5-6a37-4ad9-a899-1b4e253e5ea2.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc5NTk0MjgsIm5iZiI6MTcyNzk1OTEyOCwicGF0aCI6Ii8xMDM3MzA2NjAvMzczMjQ5ODI1LWZiMTIyMmI1LTZhMzctNGFkOS1hODk5LTFiNGUyNTNlNWVhMi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAwM1QxMjM4NDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iMTljZWY3ZmNmMWUyNDBlMDlkOGZlZDA4NzNiODhjNjA5ZDk0MmQ2ZjliYWVmZDQxNzdiZjlmYTFkMjM5YWY0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.fKWOQuVZxw3zaqS7iDuKljbFq_KuuVf3qqtVmQ2tesU" style="width: 340px; height: 400px;"/>
                 <div class="container">
                 <div class="text-block">
                     <h5><p>Let's Work Together!</p>IT Officer | IT Support Specialist </p></h5>
-                    <p>Francisca Lovinser</b></p>
+                    <p><b>Francisca Lovinser</b></p>
                     <p><b>lovincerfranki@gmail.com</b></p>
 
                 </div>
