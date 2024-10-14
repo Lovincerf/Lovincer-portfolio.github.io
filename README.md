@@ -1,5 +1,5 @@
 
-<img src="![Franki](https://github.com/user-attachments/assets/1f6222a9-fb4d-4903-8ce4-baa1cd756a76)" alt="Picrure" width="35%" height="45%">
+![Franki](https://github.com/user-attachments/assets/1f6222a9-fb4d-4903-8ce4-baa1cd756a76)
 <html lang="en">
     <head>
 <meta charset="UTF-8">
@@ -187,7 +187,8 @@ margin: auto;
                    <br> Impact: Improved overall customer satisfaction and increased team productivity.
                 
                     </p>
-                    
+
+                    ![Franki](https://github.com/user-attachments/assets/1f6222a9-fb4d-4903-8ce4-baa1cd756a76)
                     
                     <tittle>Personal Statement</tittle>
                     <p> My passion for networking drives me to continuosly expand my knowledge and skills in this rapidly evolving world.<br> I'm committed  to staying at the forefront of technological advancements and applying innovative solutions to the real-world problems. <br>I am eager to apply my skils and experiences to roles that focus on enhancing customer experience through innovative solutions and efficient processes. I'm excited to bring my enthusiasm and growing expertise to a role in network engineering and support.</p>
@@ -221,4 +222,5 @@ margin: auto;
         </footer>
     </body>
 </html>
+![Franki](https://github.com/user-attachments/assets/1f6222a9-fb4d-4903-8ce4-baa1cd756a76)
 
