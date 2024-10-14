@@ -133,7 +133,8 @@ margin: auto;
 
         <main>
             <section id="home" class="section">
-                <img src="https://private-user-images.githubusercontent.com/103730660/373249825-fb1222b5-6a37-4ad9-a899-1b4e253e5ea2.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjg4OTg5NDIsIm5iZiI6MTcyODg5ODY0MiwicGF0aCI6Ii8xMDM3MzA2NjAvMzczMjQ5ODI1LWZiMTIyMmI1LTZhMzctNGFkOS1hODk5LTFiNGUyNTNlNWVhMi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAxNFQwOTM3MjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00MjQ2NzRkM2M5ZmQxODM3ZWY4NzY1OGNhNTVmMTM1NzZhMDlhY2Y0MzVhOWI2OTVjYjMyOTY3NDY3YTc4ZjllJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.0LHPSAs8zt9Ip9FLqUta-YFcSjGacrhefjTpfGigz_M" style="width: 340px; height: 400px;"/>
+               
+                < style="width: 340px; height: 400px;"/>
                 <div class="container">
                 <div class="text-block">
                     <h5><p>Let's Work Together!</p> <p>IT Officer | IT Support Specialist </p></h5>
