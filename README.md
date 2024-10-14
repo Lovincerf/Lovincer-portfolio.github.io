@@ -1,3 +1,5 @@
+
+![Franki](https://github.com/user-attachments/assets/1f6222a9-fb4d-4903-8ce4-baa1cd756a76)
 <html lang="en">
     <head>
 <meta charset="UTF-8">
@@ -99,18 +101,6 @@ margin: auto;
         position:static;
 
     }
-    .image img {
-        position: absolute;
-        bottom:50px;
-        right: 500px;
-        padding-left: 20px;
-        padding-right: 20px;
-        top: 3000px;
-    
-    }
-    
-
-
 </style>
     </head>
     <body>
@@ -184,14 +174,14 @@ margin: auto;
             <section id="projects" class="section">
                     <h6> Project Showcase</h6>
                     <p>"Optimizing Home Network Performance"</p>
-                    <centred><img src="https://private-user-images.githubusercontent.com/103730660/373246782-9836cc99-c72b-4114-a6d9-3d1f5207644f.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjg4OTkxMTEsIm5iZiI6MTcyODg5ODgxMSwicGF0aCI6Ii8xMDM3MzA2NjAvMzczMjQ2NzgyLTk4MzZjYzk5LWM3MmItNDExNC1hNmQ5LTNkMWY1MjA3NjQ0Zi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAxNFQwOTQwMTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xZDk4NmY0OTJlODNmNzIwZTNiNzRkYzAyZjYwZTFkMDk5OTkzYTZhOGQ1YjZmMjZmOTE0NWNjMDY2ODIwMWFjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.nZX0oPmLqW2Pryy1lI5wY8muOsZplTUy9MPrT743av4" style="width:400px; height:320px; display:block; margin-left: auto; margin-right: auto;"/></centred>
+                    
                     <p>Brief description: Designed and implemented a home network setup using a router, switch and wireless access points.</br>
                        <br> Technologies used: TP Link Router, Netgear Switch, Linksys Access Points.
                        <br> Challenges overcome: Improved signal strength and reducd latency issues
                       <br>  Outcomes: Increased internet speed by 50%, enhance4d coverage across all three floors
                     </p>
                     <p>"Virtual Reception Enhancement Initiative"</p>
-                    <centred><img src="https://private-user-images.githubusercontent.com/103730660/373248902-bb66af9e-48dc-4959-92ee-1245f48db277.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjg4OTkyMTIsIm5iZiI6MTcyODg5ODkxMiwicGF0aCI6Ii8xMDM3MzA2NjAvMzczMjQ4OTAyLWJiNjZhZjllLTQ4ZGMtNDk1OS05MmVlLTEyNDVmNDhkYjI3Ny5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAxNFQwOTQxNTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mMmJiNDk4MDE3YTc5NzkwMjFkZWE5ZDJiNmU4YjY4N2E3YzQxY2U2M2JjN2I4OTY4MmNhMjc4M2JlN2YwM2ExJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.k2Eo3W5_25mM7sLAqri66n0N9f18UASf-4o1ykqgbi8" style="width:400px; height: 320px; display:block; margin-left: auto; margin-right: auto;"/></centred>
+                    
                     <p>Brief description: During  my month long contract as a remote call agent, I identified opportunities to streamline our virtual reception process and enhance the overall customer experience.<br> I proposed  and implemntd several improvements, resulting in significant increase in first-call resolution rates and client satisfaction scores.
                   <br>  Tools and technologies used: CRM software (Salesforce), Microsoft excel for data analysis, Google Sheets for collaborative document sharing.
                    <br> Impact: Improved overall customer satisfaction and increased team productivity.
@@ -232,4 +222,3 @@ margin: auto;
     </body>
 </html>
 
-![Franki](https://github.com/user-attachments/assets/1f6222a9-fb4d-4903-8ce4-baa1cd756a76)
