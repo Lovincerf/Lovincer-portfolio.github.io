@@ -1,5 +1,5 @@
 
-![Franki](https://github.com/user-attachments/assets/1f6222a9-fb4d-4903-8ce4-baa1cd756a76)
+<img src="![Franki](https://github.com/user-attachments/assets/1f6222a9-fb4d-4903-8ce4-baa1cd756a76)" alt="Picrure" width="35%" height="45%">
 <html lang="en">
     <head>
 <meta charset="UTF-8">
