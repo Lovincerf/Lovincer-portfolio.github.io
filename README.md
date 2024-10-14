@@ -133,6 +133,8 @@ margin: auto;
 
         <main>
             <section id="home" class="section">
+
+            ![Franki](https://github.com/user-attachments/assets/1f6222a9-fb4d-4903-8ce4-baa1cd756a76)
                
                 < style="width: 340px; height: 400px;"/>
                 <div class="container">
@@ -229,3 +231,5 @@ margin: auto;
         </footer>
     </body>
 </html>
+
+![Franki](https://github.com/user-attachments/assets/1f6222a9-fb4d-4903-8ce4-baa1cd756a76)
